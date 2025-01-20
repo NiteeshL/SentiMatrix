@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿Product_name,Product_price,Rate,Review,Summary
 JBL Tune 760 NC,5000,5,nice,great headphones
 JBL Tune 760 NC,5000,5,excellent,works well
@@ -27,7 +26,6 @@ Macbook Air M2,200000,1,doesn’t work,its broken
 Samsung A20,18000,1,overheating issues,bad product overheats
 Samsung A20,18000,2,bad camera,the photos are very bad
 Samsung A20,18000,2,green line,the phone got green line on first day 
-=======
 ﻿Product_name,Product_price,Rate,Review,Summary
 JBL Tune 760 NC,5000,5,nice,great headphones
 JBL Tune 760 NC,5000,5,excellent,works well
@@ -56,4 +54,3 @@ Macbook Air M2,200000,1,doesn’t work,its broken
 Samsung A20,18000,1,overheating issues,bad product overheats
 Samsung A20,18000,2,bad camera,the photos are very bad
 Samsung A20,18000,2,green line,the phone got green line on first day 
->>>>>>> 90a4cccf656cba2157297745a66ec9d29112a4b1
